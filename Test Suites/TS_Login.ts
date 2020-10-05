@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Login</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>dee69b2e-6cd0-4324-844e-7b39d9054483</testSuiteGuid>
+   <testCaseLink>
+      <guid>e4705cdd-0158-43ff-abf9-55264b09d41b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC001_Login</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>79bc6b43-f221-47b0-a88e-91b7278ad255</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>48f31755-9a45-4cc3-a80c-21c86cc6633e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC002_WrongPass</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f15f8c0c-022b-4b0d-911c-996dfaad21b3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ba790cb2-9f65-4626-973d-5c24bea4b91d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC003_NoPass</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c7245ee8-4bdd-4c73-a2d0-ddf7f4fa19be</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4b592201-b8c3-4285-aa1d-b25215a17428</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC004_NoUser</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>68da5978-a931-479b-94a6-6a5c88918e90</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f75c4c95-6159-4eb7-9e15-d2f7f19d36da</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC005_WrongPass_User</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cce6438d-5eee-42ec-a761-7ac3574df964</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

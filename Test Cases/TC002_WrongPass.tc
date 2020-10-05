@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_WrongPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b06bbab7-b6ce-48e6-8279-3c2a0c94f5ed</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>f15f8c0c-022b-4b0d-911c-996dfaad21b3</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

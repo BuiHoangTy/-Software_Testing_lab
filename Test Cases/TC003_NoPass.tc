@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_NoPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3391dee5-0f82-4221-9514-277724e36b32</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>c7245ee8-4bdd-4c73-a2d0-ddf7f4fa19be</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
